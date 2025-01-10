@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribuição/Pacotes
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.installed.cfg
+*.egg
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pycache__/
+
+# PyInstaller
+#  Inclui-se este diretório correctamente, se utilizado numa gerência de versão
+*.manifest
+*.spec
+
+# Pytest
+.cache
+
+# Por testar
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Ferramentas editoriais
+*.pem
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
+*.swp
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos de log
+*.log
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configurações secretas
+.env
+.env.*
+
+# Arquivos de backup
+*.bak
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos gerados de depuração
+debugger.ini
