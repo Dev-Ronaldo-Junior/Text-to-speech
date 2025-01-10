@@ -18,8 +18,8 @@ Este projeto tem a finalidade de através da transcrição de uma texto em portu
 Descreva o objetivo do projeto, destacando suas principais funcionalidades e a motivação por trás de seu desenvolvimento.
 
 ## Estrutura de Diretórios e Arquivos
-
-seu_projeto/
+```
+text-to-speech/
 │
 ├──image
 │
@@ -31,7 +31,7 @@ seu_projeto/
 │   └── main_view.py
 │
 └── main.py
-
+```
 ## Instalação
 
 ### Pré-requisitos
